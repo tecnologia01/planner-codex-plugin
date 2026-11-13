@@ -1,0 +1,24 @@
+{
+  "name": "planner",
+  "version": "1.0.0",
+  "description": "Conecta Codex con Planner (planner.tigo.plus): proyectos, actividades, sprints, módulos y comentarios.",
+  "author": { "name": "Equipo de Tecnología" },
+  "homepage": "https://planner.tigo.plus",
+  "license": "MIT",
+  "keywords": ["planner", "gestion", "proyectos", "tareas", "mcp"],
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Planner",
+    "shortDescription": "Gestiona tu trabajo en Planner desde Codex.",
+    "longDescription": "Consulta y actualiza proyectos, actividades, sprints, módulos y comentarios de Planner sin salir de Codex. Trabaja con tu propia cuenta y tus permisos: la primera vez se abre Planner en el navegador y pulsas Permitir.",
+    "developerName": "Equipo de Tecnología",
+    "category": "Productivity",
+    "capabilities": [],
+    "websiteURL": "https://planner.tigo.plus",
+    "defaultPrompt": ["¿Qué actividades tengo asignadas en Planner esta semana?"],
+    "composerIcon": "./assets/composer-icon.png",
+    "logo": "./assets/logo.png",
+    "screenshots": [],
+    "brandColor": "#3F76FF"
+  }
+}

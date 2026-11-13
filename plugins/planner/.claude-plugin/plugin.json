@@ -1,0 +1,9 @@
+{
+  "name": "planner",
+  "version": "1.0.0",
+  "description": "Conecta con Planner (planner.tigo.plus): proyectos, actividades, sprints, módulos y comentarios.",
+  "author": { "name": "Equipo de Tecnología" },
+  "homepage": "https://planner.tigo.plus",
+  "license": "MIT",
+  "mcpServers": "./.mcp.json"
+}

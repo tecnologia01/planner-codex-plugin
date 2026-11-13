@@ -1,0 +1,7 @@
+# Configuración local de agentes y secretos: nunca se publican.
+.claude/
+.codex/
+.env
+.env.*
+*.log
+.DS_Store

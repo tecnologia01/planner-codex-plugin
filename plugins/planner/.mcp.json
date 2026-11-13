@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "planner": {
+      "type": "http",
+      "url": "https://planner.tigo.plus/mcp",
+      "note": "MCP de Planner. La primera vez abre Planner en el navegador para iniciar sesión y pulsar Permitir."
+    }
+  }
+}

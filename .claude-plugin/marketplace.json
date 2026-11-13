@@ -1,0 +1,14 @@
+{
+  "name": "planner",
+  "description": "Conector de Planner para agentes de código.",
+  "owner": { "name": "Equipo de Tecnología" },
+  "plugins": [
+    {
+      "name": "planner",
+      "description": "Conecta con Planner (planner.tigo.plus).",
+      "source": "./plugins/planner",
+      "version": "1.0.0",
+      "category": "productivity"
+    }
+  ]
+}
